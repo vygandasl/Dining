@@ -7,9 +7,9 @@
 <div id="menu-items">
 
 <h1>Meniu</h1>
-<p>Kaip ir mūsų grupė, meniu pasirinkimas yra labai mažas &mdash;
-  bet kam tai rūpi!</p>
-<p><em>Paspauskite ant produkto, norėdami sužinoti daugiau apie jį:</em></p>
+<p>Our team as well as menu is really small &mdash;
+  but who cares!</p>
+<p><em>Press on a menu item to see what contains it</em></p>
 
 <hr>
 

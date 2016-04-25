@@ -1,6 +1,5 @@
 
 <hr>
-<html lang="{$LANG.isocode}">
 
 
 <div id ="footer" class="cf">
@@ -8,7 +7,7 @@
         <div class="column three">
         <strong>Mobile number</strong>
         +37060000000<br><br>
-        <a href="mailto:vygandas.lepsys@gmail.com">Connect me through a email!</a>
+        <a href="mailto:vygandas.lepsys@gmail.com">Connect me through an email!</a>
       </div>
 
       <div class="column three">

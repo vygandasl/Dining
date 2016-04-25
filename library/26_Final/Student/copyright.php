@@ -1,1 +1,1 @@
-<h5>Copyright &copy;<?php echo date('Y');?> Vygandas Lepšys</h5>
+<h5>Copyright &copy;<?php echo date('Y');?> Vygandas Lepsys</h5>

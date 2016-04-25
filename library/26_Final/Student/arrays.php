@@ -46,34 +46,34 @@ $menuItems = array(
 
     "sumustinis" => array(
 
-      "title" => "Sumuštinis",
+      "title" => "Sandwitch",
       "kaina" => "4",
-      "apie" => "Sumuštinis su kumpiu ir sūriu",
+      "apie" => "Sandwitch with ham and cheese",
       "gerimas" => "Pepsi, Coca-cola, kava"
     ),
 
     "Jautienos-Kepsnys" => array(
 
-    "title" => "Jautienos Kepsnys",
+    "title" => "Beef steak",
     "kaina" => "12",
-    "apie" => "Kepsnys patiekiamas su daržovėmis ir bandele",
-    "gerimas" => "Vynas, visi gaivieji gėrimai"
+    "apie" => "Beef steak with a bread",
+    "gerimas" => "Wine"
   ),
 
   "Kiaulienos-kepsnys" => array(
 
-  "title" => "Kiaulienos Kepsnys",
+  "title" => "Steak",
   "kaina" => "11",
-  "apie" => "Kepsnys patiekiamas su daržovėmis ir bandele",
-  "gerimas" => "Vynas, visi gaivieji gėrimai"
+  "apie" => "Steak with some salad",
+  "gerimas" => "Wine"
 ),
 
 "Grilis" => array(
 
-"title" => "Grilio kepsnys",
+"title" => "Grill steak",
 "kaina" => "16",
-"apie" => "Kepsnys patiekiamas su daržovėmis, keptomis bulvėmis",
-"gerimas" => "Visi gaivieji gėrimai, alus "
+"apie" => "Grill steak with potatoes and salad",
+"gerimas" => "Beer, Coca-cola "
 ),
 
 );

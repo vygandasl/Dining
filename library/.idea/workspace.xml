@@ -46,10 +46,30 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="arrays.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="arrays.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/26_Final/Student/arrays.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-315">
+            <state relative-caret-position="207">
+              <caret line="75" column="29" selection-start-line="75" selection-start-column="29" selection-end-line="75" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="copyright.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/26_Final/Student/copyright.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="57" selection-start-line="0" selection-start-column="57" selection-end-line="0" selection-end-column="57" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dish.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/26_Final/Student/dish.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-453">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -59,10 +79,34 @@
       <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/26_Final/Student/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+            <state relative-caret-position="-285">
+              <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
               <folding>
-                <marker date="1461621133000" expanded="true" signature="340:384" placeholder="{...}" />
+                <marker date="1461621431000" expanded="true" signature="311:355" placeholder="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="team.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/26_Final/Student/team.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-258">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1461075880000" expanded="true" signature="126:549" placeholder="### ... ###" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="menu.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/26_Final/Student/menu.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+              <folding>
+                <marker date="1461621539000" expanded="true" signature="113:487" placeholder="### ... ###" />
               </folding>
             </state>
           </provider>
@@ -88,8 +132,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/26_Final/Student/footer.php" />
         <option value="$PROJECT_DIR$/26_Final/Student/contact.php" />
+        <option value="$PROJECT_DIR$/26_Final/Student/arrays.php" />
+        <option value="$PROJECT_DIR$/26_Final/Student/copyright.php" />
+        <option value="$PROJECT_DIR$/26_Final/Student/footer.php" />
+        <option value="$PROJECT_DIR$/26_Final/Student/menu.php" />
       </list>
     </option>
   </component>
@@ -620,12 +667,12 @@
       <workItem from="1459967497861" duration="38000" />
       <workItem from="1459967563966" duration="2084000" />
       <workItem from="1461610950952" duration="219000" />
-      <workItem from="1461620297232" duration="785000" />
+      <workItem from="1461620297232" duration="1127000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3126000" />
+    <option name="totallyTimeSpent" value="3468000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1366" height="677" extended-state="6" />
@@ -709,16 +756,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/26_Final/Student/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
-          <folding>
-            <marker date="1461621133000" expanded="true" signature="340:384" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/26_Final/Student/header.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -749,9 +786,63 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/26_Final/Student/arrays.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-315">
+        <state relative-caret-position="207">
+          <caret line="75" column="29" selection-start-line="75" selection-start-column="29" selection-end-line="75" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/26_Final/Student/copyright.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="57" selection-start-line="0" selection-start-column="57" selection-end-line="0" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/26_Final/Student/dish.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-453">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/26_Final/Student/nav.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/26_Final/Student/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-285">
+          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+          <folding>
+            <marker date="1461621431000" expanded="true" signature="311:355" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/26_Final/Student/team.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-258">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1461075880000" expanded="true" signature="126:549" placeholder="### ... ###" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/26_Final/Student/menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+          <folding>
+            <marker date="1461621539000" expanded="true" signature="113:487" placeholder="### ... ###" />
+          </folding>
         </state>
       </provider>
     </entry>
