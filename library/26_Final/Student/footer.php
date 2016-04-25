@@ -1,19 +1,21 @@
 
 <hr>
+<html lang="{$LANG.isocode}">
 
-      <div id ="footer" class="cf">
+
+<div id ="footer" class="cf">
 
         <div class="column three">
-        <strong>Tel.nr.</strong>
+        <strong>Mobile number</strong>
         +37060000000<br><br>
-        <a href="mailto:vygandas.lepsys@gmail.com">Susisiekite el. paštu!</a>
+        <a href="mailto:vygandas.lepsys@gmail.com">Connect me through a email!</a>
       </div>
 
       <div class="column three">
-      <strong>Vieta</strong>
-      54 Tuskulėnų g., Vilnius
+      <strong>Location</strong>
+      54 Tuskulenų street, Vilnius
       Lithuania
-      </div>
+
 <html>
 <head>
 <script

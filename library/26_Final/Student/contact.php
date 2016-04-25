@@ -81,10 +81,10 @@
 
   <form method="post" action="" id="contact-form">
 
-    <label for="name">Vardas</label>
+    <label for="name">Name</label>
     <input type="text" id="name" name="name">
 
-    <label for="email">El.Paštas</label>
+    <label for="email">Email</label>
     <input type="email" id="email" name="email">
 
     <label for="message">Žinutė</label>
@@ -92,7 +92,7 @@
 
     <input type="checkbox" id="subscribe" name="subscribe"
     value="Subscribe">
-    <label for="name">Prenumeruokite naujienlaiškį</label>
+    <label for="name">Subscribe to newsletter!</label>
 
     <input type="submit" class="button next" name="contact_submit"
     value="Išsiųsti">

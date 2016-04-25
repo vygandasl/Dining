@@ -25,22 +25,44 @@
       <file leaf-file-name="contact.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/26_Final/Student/contact.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-114">
-              <caret line="26" column="37" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
+            <state relative-caret-position="1245">
+              <caret line="83" column="26" selection-start-line="83" selection-start-column="26" selection-end-line="83" selection-end-column="26" />
               <folding>
-                <marker date="1461075784000" expanded="true" signature="757:811" placeholder="..." />
+                <marker date="1461621197000" expanded="true" signature="757:811" placeholder="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/26_Final/Student/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1461075840000" expanded="true" signature="106:204" placeholder="### ... ###" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="arrays.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/26_Final/Student/arrays.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-315">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/26_Final/Student/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="70" selection-start-line="8" selection-start-column="70" selection-end-line="8" selection-end-column="70" />
+            <state relative-caret-position="270">
+              <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
               <folding>
-                <marker date="1461620535000" expanded="true" signature="301:341" placeholder="{...}" />
+                <marker date="1461621133000" expanded="true" signature="340:384" placeholder="{...}" />
               </folding>
             </state>
           </provider>
@@ -66,8 +88,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/26_Final/Student/contact.php" />
         <option value="$PROJECT_DIR$/26_Final/Student/footer.php" />
+        <option value="$PROJECT_DIR$/26_Final/Student/contact.php" />
       </list>
     </option>
   </component>
@@ -598,12 +620,12 @@
       <workItem from="1459967497861" duration="38000" />
       <workItem from="1459967563966" duration="2084000" />
       <workItem from="1461610950952" duration="219000" />
-      <workItem from="1461620297232" duration="307000" />
+      <workItem from="1461620297232" duration="785000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2648000" />
+    <option name="totallyTimeSpent" value="3126000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1366" height="677" extended-state="6" />
@@ -662,7 +684,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1461075784000" expanded="true" signature="757:811" placeholder="..." />
+            <marker date="1461621197000" expanded="true" signature="757:811" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -672,7 +694,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1461075784000" expanded="true" signature="757:811" placeholder="..." />
+            <marker date="1461621197000" expanded="true" signature="757:811" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -682,17 +704,17 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1461075784000" expanded="true" signature="757:811" placeholder="..." />
+            <marker date="1461621197000" expanded="true" signature="757:811" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/26_Final/Student/contact.php">
+    <entry file="file://$PROJECT_DIR$/26_Final/Student/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-114">
-          <caret line="26" column="37" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
+        <state relative-caret-position="270">
+          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
           <folding>
-            <marker date="1461075784000" expanded="true" signature="757:811" placeholder="..." />
+            <marker date="1461621133000" expanded="true" signature="340:384" placeholder="{...}" />
           </folding>
         </state>
       </provider>
@@ -705,13 +727,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/26_Final/Student/footer.php">
+    <entry file="file://$PROJECT_DIR$/26_Final/Student/contact.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="70" selection-start-line="8" selection-start-column="70" selection-end-line="8" selection-end-column="70" />
+        <state relative-caret-position="1245">
+          <caret line="83" column="26" selection-start-line="83" selection-start-column="26" selection-end-line="83" selection-end-column="26" />
           <folding>
-            <marker date="1461620535000" expanded="true" signature="301:341" placeholder="{...}" />
+            <marker date="1461621197000" expanded="true" signature="757:811" placeholder="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/26_Final/Student/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1461075840000" expanded="true" signature="106:204" placeholder="### ... ###" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/26_Final/Student/arrays.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-315">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
