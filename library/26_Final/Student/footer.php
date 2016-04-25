@@ -12,7 +12,7 @@
 
       <div class="column three">
       <strong>Location</strong>
-      54 Tuskulenų street, Vilnius
+      54 Tuskulenu street, Vilnius
       Lithuania
 
 <html>
