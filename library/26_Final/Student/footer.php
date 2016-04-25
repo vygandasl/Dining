@@ -13,6 +13,7 @@
       <strong>Vieta</strong>
       54 Tuskulėnų g., Vilnius
       Lithuania
+      </div>
 <html>
 <head>
 <script
@@ -42,7 +43,7 @@ google.maps.event.addDomListener(window, 'load', initialize);
     </div>
 
     <div class="column three last">
-    <strong>Valandos</strong>
+    <strong>Hours</strong>
     <em>Tuesday - Friday</em><br>
     9:00pm - 5:00am<br><br>
 
