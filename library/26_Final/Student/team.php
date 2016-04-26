@@ -16,7 +16,7 @@
 
     <div class="member">
 
-      <img src="img/<?php echo "$member[img]"; ?>.png"
+      <img src="<?php echo "$member[img]"; ?>.png"
       alt="<?php echo "$member[name]"; ?>">
       <h2><?php echo "$member[name]"; ?></h2>
       <h2><?php echo "$member[position]"; ?></h2>
